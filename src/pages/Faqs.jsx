@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react"
 import gsap from "gsap"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
-import FAQItem from "../components/ui/FAQItem"
+import FAQItem from "../components/ui/FAQitem"
 import work from "../assets/Data/Work.json"
 
 

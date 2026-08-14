@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import gsap from 'gsap';
 import PageBanner from '../components/ui/Cards/PageBanner';
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 import { Compass, Home } from 'lucide-react';
 
 const NotFound = () => {

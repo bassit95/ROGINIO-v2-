@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import PageBanner from '../components/ui/Cards/PageBanner';
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 import { Mail, MapPin, Phone, User, Info, Pencil } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);

@@ -6,7 +6,7 @@ import { useRef, useEffect, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import toast from "react-hot-toast";
-import MainBtn from "../components/ui/Buttons/MainBtn";
+import MainBtn from "../components/ui/buttons/MainBtn";
 
 import { X } from "lucide-react";
 

@@ -5,7 +5,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Link, useParams } from "react-router-dom";
 import TeamData from "../assets/Data/TeamData.json";
 
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 
 import data from "../assets/data";
 import gsap from "gsap";

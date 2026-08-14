@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import works from "../assets/Data/Work.json";
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 import { Mail, MapPin, Phone } from 'lucide-react';
 import { useParams, useNavigate } from "react-router-dom";
 import PageBanner from '../components/ui/Cards/PageBanner';

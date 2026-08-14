@@ -4,7 +4,7 @@ import {useEffect, useRef, useState} from "react";
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {Link, useParams} from "react-router-dom";
 import ProductData from "../assets/Data/ProductData.json"
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 import gsap from "gsap"
 
 

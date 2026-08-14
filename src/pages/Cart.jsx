@@ -20,7 +20,7 @@ import { Icon } from '@iconify/react';
 import { Minus, Plus } from 'lucide-react';
 
 // Importation du bouton principal personnalisé de l'interface utilisateur
-import MainBtn from "../components/ui/Buttons/MainBtn";
+import MainBtn from "../components/ui/buttons/MainBtn";
 // Enregistrement officiel du plugin ScrollTrigger auprès du cœur de GSAP
 gsap.registerPlugin(ScrollTrigger);
 

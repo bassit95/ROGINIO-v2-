@@ -11,7 +11,7 @@ import slide1 from "/images/Index/Hero/main-slider-01.jpg";
 import slide2 from "/images/Index/Hero/main-slider-02.jpg";
 import slide3 from "/images/Index/Hero/main-slider-03.jpg";
 
-import MainBtn from "../ui/Buttons/MainBtn";
+import MainBtn from "../ui/buttons/MainBtn";
 import { ChevronDown, ChevronRight,  ChevronLeft,   Facebook, Instagram, Twitter, X , Youtube} from 'lucide-react';
 
 

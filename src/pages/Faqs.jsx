@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 import faqImage1 from "/images/Faqs/faq-image-01.jpg"
 import faqImage2 from "/images/Faqs/faq-image-02.jpg"
 import PageBanner from "../components/ui/Cards/PageBanner"
-import MainBtn from "../components/ui/Buttons/MainBtn"
+import MainBtn from "../components/ui/buttons/MainBtn"
 import WorkCard from "../components/ui/Cards/WorkCard"
 
 const Faqs = () => {

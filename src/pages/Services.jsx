@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from 'react';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import { PhoneCall, ArrowRight, CheckCircle, HelpCircle } from 'lucide-react';
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 
 import aboutImg1 from '/images/AboutPage/about-image-01.jpg';
 import aboutImg2 from '/images/AboutPage/about-image-02.jpg';

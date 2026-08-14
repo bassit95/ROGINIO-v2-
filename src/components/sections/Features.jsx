@@ -1,5 +1,5 @@
 import React from 'react'
-import MainBtn from "../ui/Buttons/MainBtn";
+import MainBtn from "../ui/buttons/MainBtn";
 import FeatureCard from '../ui/Cards/FeatureCard.jsx';
 
 import FeatureImage1 from "/images/Index/Features/feature-image-01.jpg";

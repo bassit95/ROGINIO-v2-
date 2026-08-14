@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import PageBanner from '../components/ui/Cards/PageBanner';
 import Banner from '../components/sections/Banner';
-import MainBtn from '../components/ui/Buttons/MainBtn';
+import MainBtn from '../components/ui/buttons/MainBtn';
 
 import aboutImg1 from "/images/AboutPage/about-image-01.jpg";
 import aboutImg2 from "/images/AboutPage/about-image-02.jpg";

@@ -3,7 +3,7 @@ import aboutImg1 from "/images/Index/About/about-image01.jpg";
 import aboutImg2 from "/images/Index/About/about-image02.jpg";
 import aboutImg3 from "/images/Index/About/about-image03.jpg";
 
-import MainBtn from "../ui/Buttons/MainBtn";
+import MainBtn from "../ui/buttons/MainBtn";
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";

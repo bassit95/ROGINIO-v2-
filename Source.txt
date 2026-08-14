@@ -1,0 +1,243 @@
+# 🚀 START PROJECT
+
+Install Dependencies
+npm i 
+
+Run Project
+npm run dev
+
+
+npm install tailwindcss @tailwindcss/vite
+npm install lucide-react
+npm install swiper
+npm install gsap
+npm install react-countup
+npm install photoswipe
+npm install react-medium-image-zoom --legacy-peer-deps
+npm install ScrollTrigger
+
+
+# ▶️ RUN PROJECT
+
+npm run dev
+
+============================================================
+
+============================================================
+
+// Nav Links
+
+const navLinks = [
+{ name: "Home", path: "/" },
+{ name: "About", path: "/about" },
+{
+name: "Shop",
+submenu: [
+{ name: "Product List", path: "/shop" },
+{ name: "Product Single", path: "/product/1" },
+{ name: "Cart", path: "/cart" },
+{ name: "Checkout", path: "/checkout" },
+{ name: "Wishlist Page", path: "/wishlist" },
+],
+},
+{ name: "Blogs", path: "/blogs" },
+{ name: "Contact", path: "/contact" },
+{
+name: "Pages",
+submenu: [
+{ name: "Services", path: "/services" },
+{ name: "Teams", path: "/team" },
+{ name: "FAQs", path: "/faqs" },
+{ name: "404 Page", path: "/page404" },
+],
+},
+];
+
+============================================================
+
+// Hero Section
+
+Transform Your Space
+
+Inspire Your Living
+Elevate your daily life with inspired designs that balance beauty and practicality, transforming ordinary spaces into extraordinary experiences that energize, relax, and captivate.
+
+Elegance Every Detail
+Experience luxury in every corner, where meticulous attention to detail, refined materials, and thoughtful design merge to craft interiors that impress and endure beautifully.
+
+https://www.facebook.com/
+https://x.com/
+https://www.instagram.com/
+https://www.youtube.com/
+
+============================================================
+
+// About Section
+
+About Us
+Creative Solutions by Professional Designers
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet voluptates maiores omnis modi asperiores! Ut ex facilis deserunt at repellat.
+
+============================================================
+
+// Features Section
+
+Our Features
+Modern ideas for home
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim temporibus non ratione vitae.
+
+Comfortable and elegant bedroom designs that create a peaceful and relaxing environment for rest and rejuvenation.
+Modern kitchens designed for functionality and style, combining smart layouts with beautiful finishes.
+Creative lighting solutions that enhance mood, highlight interiors, and bring warmth to every space.
+Stylish window designs that maximize natural light while improving ventilation and aesthetic appeal.
+Luxury bathroom interiors that blend comfort, elegance, and modern functionality for a refreshing experience.
+Beautiful decorative elements that add personality, charm, and artistic expression to your living spaces.
+Elegant fireplaces designed to create a warm and inviting atmosphere in modern homes.
+Sophisticated living room interiors crafted for comfort, style, and memorable moments with family and guests.
+
+============================================================
+
+// Steps Section
+
+Steps
+4 Easy Steps to Get Interior Design
+
+Request Sending
+Send us your project request and requirements so we can understand your needs clearly.
+
+Project Planning
+Our team carefully analyzes your idea and creates a structured plan to achieve the best results.
+
+Design Creating
+We design a beautiful and functional solution tailored specifically for your business goals.
+
+Enjoying Work
+Sit back and enjoy the final result as we deliver a polished and high-quality project.
+
+============================================================
+
+// Shop Details
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa, voluptas! Inventore corrupti vel consequatur saepe voluptatem ipsum officia fugit, modi aut dolore debitis earum deserunt cumque illum praesentium expedita ab?
+Product Id :
+Categories :
+Tages :
+Chair, Color, Decor, Design, Light, Wood
+Share :
+
+https://www.facebook.com/
+https://x.com/
+https://www.instagram.com/
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid totam, commodi molestiae, sint neque architecto explicabo quos magnam illum tempora mollitia facilis dicta accusantium dignissimos asperiores ad quasi. Id aliquam ex, iure, odit officiis dolorem, inventore numquam consequuntur ipsum consectetur minima distinctio consequatur illum amet fugit eveniet asperiores? Vitae necessitatibus rerum temporibus beatae consequatur ratione quod ipsa voluptatum recusandae, ab autem reprehenderit, velit amet, totam dolores accusantium. Repellat dolorum voluptatibus consequatur non iure eos, iste, ea accusamus, distinctio nisi quaerat et omnis doloribus deserunt obcaecati ipsa pariatur sunt fugiat cum voluptates unde inventore soluta id hic? Impedit molestiae explicabo rerum fuga! Excepturi aspernatur accusantium quisquam temporibus laboriosam dolorum unde, id ipsam at porro laborum facilis eius dolorem aliquam quas repellat libero, qui laudantium, consequatur reprehenderit labore soluta! Nostrum, nobis alias. Voluptatem ratione, distinctio dolorem cum quis unde ab perspiciatis dicta.
+
+Our shop
+
+Related products
+
+============================================================
+
+// Collection Section
+
+Our Collection
+Our sofas design-focused create style
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim temporibus non ratione vitae.
+
+============================================================
+
+// Blog Details Page
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, error accusamus mollitia quos modi eligendi ad tenetur cum qui eius architecto veniam odio nostrum voluptatem quaerat totam iure natus earum reiciendis dolorum vitae aliquid aut sint tempore. Blanditiis, totam animi minima magnam voluptatum voluptatibus, quasi id quis, labore cum esse!
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi praesentium necessitatibus perspiciatis, laudantium dolor obcaecati explicabo ab dolores est. Deleniti eius libero quisquam, minus sunt porro deserunt? Eveniet excepturi animi similique quis iusto, tenetur veritatis!
+
+But, in truth, and I will accuse them,
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis ut amet numquam error soluta et commodi ducimus dolor vitae odio, fuga dicta enim ullam nisi deleniti, recusandae pariatur sit quas? Cumque sed reprehenderit nihil, dolore delectus sequi qui mollitia rerum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui optio dolorum in, reiciendis, aut exercitationem ducimus temporibus modi nihil unde, animi repudiandae. Dolore accusantium tempore ipsum, commodi maxime mollitia! Nobis odit ullam reprehenderit vitae tempora.ś
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi praesentium necessitatibus perspiciatis, laudantium dolor obcaecati explicabo ab dolores est. Deleniti eius libero quisquam, minus sunt porro deserunt? Eveniet excepturi animi similique quis iusto, tenetur veritatis!
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus quidem nesciunt labore. Voluptates porro atque maiores, possimus minus similique. Fugit enim ea non laboriosam possimus, labore sed ut. Molestias tenetur, et eius assumenda quas alias magnam optio natus ullam, dolore dolorem repudiandae, illum cupiditate sed facilis consequatur porro aut exercitationem. Pariatur fuga quam dolorem quos.
+
+Chat various peanut and lakes makeup products. Mauris sollicitudin velit condimentum, mourning, justo not, television players.
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus quidem nesciunt labore. Voluptates porro atque maiores, possimus minus similique. Fugit enim ea non laboriosam possimus, labore sed ut. Molestias tenetur, et eius assumenda quas alias magnam optio natus ullam, dolore dolorem repudiandae, illum cupiditate sed facilis consequatur porro aut exercitationem. Pariatur fuga quam dolorem quos.
+
+Creative approach to every project
+Voices and law enforcement zero. Nutrition residents soccer sad old and old and malesuada hunger and ugly law enforcement. Fusce gravida, ligula non molestie tristique, justo elit blandit risus, blandit the biggest augue magna accumsan ante. Duis id mi tristique, pillow, nor at, lobortis tortor
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Leave a comment
+
+============================================================
+
+// Footer
+
+The USA — 785 15th Street, Office 478, Boston, MD 02130
+
+[info@example.com](mailto:info@example.com)
+
++91 12345 67890
+
+https://uicode.in/
+
+© {new Date().getFullYear()}. All Rights Reserved.
+
+============================================================
+
+// Contact Map
+
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118106.58331780837!2d73.09068534112943!3d22.322240635435882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc8ab91a3ddab%3A0xac39d3bfe1473fb8!2sVadodara%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1774004244590!5m2!1sen!2sin
+
+============================================================
+
+// Services Details
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A laudantium unde quae officiis, dignissimos sit quis adipisci voluptas consectetur explicabo blanditiis illo, quidem delectus.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea neque nihil aspernatur! Voluptates ad laboriosam in, iure dolore facilis dolor dolorem doloremque fugiat iusto. Ducimus nulla commodi non placeat nemo possimus illum, veritatis iusto consequuntur atque! Accusamus aliquam praesentium officia.
+
+============================================================
+
+// Service Page
+
+Schedule an appointment to meet or email us your questions
+
+Modern Solutions
+Timeless, quality interior design
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+
+Worldwide shipping
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+Buyer protection
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+Customer support
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+
+our testimonials
+Feedback from clients
+
+============================================================
+
+deploiement github  
+
+npm install --save-dev gh-pages
+        ↓
+vite.config.js → base: '/React-formulaire/'
+        ↓
+package.json → "deploy": "gh-pages -d dist"
+        ↓
+npm run build
+        ↓
+npm run deploy
+        ↓
+GitHub Pages → gh-pages → /root
+        ↓
+🌐 site en ligne

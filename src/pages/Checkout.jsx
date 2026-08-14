@@ -7,7 +7,7 @@ import { useCart } from '../hooks/useCart';
 import { Icon } from '@iconify/react';
 import { Minus, Plus } from 'lucide-react';
 import { Link } from "react-router-dom";
-import MainBtn from "../components/ui/Buttons/MainBtn";
+import MainBtn from "../components/ui/buttons/MainBtn";
 
 import data from "../assets/data";
 

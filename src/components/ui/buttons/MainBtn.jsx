@@ -9,8 +9,8 @@ function MainBtn({text,onClick,type = "button",className = "",path}) {
     const handleClick = () => {
         if(path) {
             navigate(path);
-        } else if(onclick) {
-            onclick();
+        } else if(onClick) {
+            oncliCk();
         }
     };
 

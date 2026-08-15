@@ -74,6 +74,11 @@ function ShopDetails() {
      }
    }
 
+   // Gestion de l'ajout au panier avec transmission de la quantité choisie
+   const handleAddToCart = () => {
+     addToCart(product, qty);
+   };
+
 
    // =========================================================================
    // ANALYSE DES EFFECT ET ANIMATIONS GSAP
@@ -184,7 +189,7 @@ function ShopDetails() {
            toggleActions : "play none none reverse"
          },
        });
-      
+     
        // 3. ANIMATION DE TYPE "FROMTO" (On force explicitement l'état de départ ET l'état d'arrivée)
        // Cible la liste des vignettes d'images miniatures sous la photo principale
        gsap.fromTo(thumbs,
@@ -260,7 +265,7 @@ function ShopDetails() {
       <PageBanner  
       title= "shop Details" 
       currentPage="Shop Details"
-      productName={product.tiltle}
+      productName={product.title}
       />
 
       {/* BLOC PRINCIPAL PRODUIT (Scanné par productRef pour GSAP) */}
@@ -321,7 +326,7 @@ function ShopDetails() {
                  <Plus   />
                 </span>
               </div>
-              <MainBtn  onClick={() => addToCart(product)}  text={"Add to cart"} className='rounded-none! shadow-none! bg-black! text-white! text-[16px]! w-full! lg:w-60! px-12! py-8!'/>
+              <MainBtn  onClick={handleAddToCart}  text={"Add to cart"} className='rounded-none! shadow-none! bg-black! text-white! text-[16px]! w-full! lg:w-60! px-12! py-8!'/>
             </div>
             
             {/* Liste de métadonnées du produit avec icônes de partage social */}
@@ -359,7 +364,7 @@ function ShopDetails() {
       
       {/* SECTION DESCRIPTION TECHNIQUE ET PRODUITS ASSOCIES */}
       <div className="bg-light-yellow   pt-[3%] ">
-       <div className="container mx-auto  px-4" ref={peraRef}>
+       <div className="container mx-auto   px-4" ref={peraRef}>
          <p className='pera-text '>
            Lorem ipsum dolor sit amet consectetur adipisicing elit...
          </p>

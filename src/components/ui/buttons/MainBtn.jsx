@@ -6,14 +6,15 @@ function MainBtn({text,onClick,type = "button",className = "",path}) {
 
     const navigate = useNavigate();
 
-    const handleClick = () => {
-        if(path) {
-            navigate(path);
-        } else if(onClick) {
-            oncliCk();
-        }
-    };
+   const handleClick = () => {
 
+    if (path) {
+        navigate(path);
+    } else if (onClick) {
+      
+        onClick();
+    }
+};
 
   return (
     <>
